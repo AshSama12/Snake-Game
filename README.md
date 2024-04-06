@@ -15,4 +15,4 @@ The objective is to eat as much food as possible and achieve the highest score.
 - Random generation of food.
 - Score tracking.
 
-[Watch the video]([link_to_video](https://github.com/AshSama12/Snake-Game/blob/main/202403261058.mp4))
+![Watch the video]([link_to_video](https://github.com/AshSama12/Snake-Game/blob/main/202403261058.mp4))
